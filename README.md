@@ -1,7 +1,8 @@
+![logo]
 <h1 align="center">Hi 👋, I'm Jobayer Shikder</h1>
 <h3 align="center">Passionate for software developer and tester</h3>
 
-<img align="centerbottom" alt="coding" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw37Zcl_OuXcSfcEGhj8dLrB&ust=1695135225226000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDd3v20tIEDFQAAAAAdAAAAABAv">
+<img align="left" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobayersr&label=Profile%20views&color=0e75b6&style=flat" alt="jobayersr" /> </p>
 
@@ -14,6 +15,8 @@
 - 📫 How to reach me **jobayer40001bd@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/posts/jobayer-shikder-1944011a3_cv-activity-7101616781261246464-eULi?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/jobayer-shikder-1944011a3_cv-activity-7101616781261246464-eULi?utm_source=share&utm_medium=member_desktop)
+
+- ⚡ Fun fact **I am not so lazy but some time's I am.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
